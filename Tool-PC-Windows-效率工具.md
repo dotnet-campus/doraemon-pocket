@@ -33,6 +33,10 @@
 
     [Global Potplayer](https://potplayer.daum.net/ )
 
+* 演示文稿 - 希沃白板
+
+    [希沃白板5 为互动教学而生 | 课件制作神器](http://easinote.seewo.com/ )
+
 ## Other
 
 * Dukto 
