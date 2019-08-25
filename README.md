@@ -1,5 +1,5 @@
 
-![](./assets/logo/doraemon-pocket-dc.png)
+![](./assets/logo/doraemon-pocket-dc-720.png)
 
 收藏效率工具，有趣站点等等，期望这个仓库能像哆啦A梦的口袋一样神奇，帮助你解决需要小问题，提升学习和工作效率。
 
