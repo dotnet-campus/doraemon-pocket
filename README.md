@@ -7,7 +7,7 @@
 
 ---
 
-## 0 起源
+## 0 源起
 
 己亥年某日与 [walterlv](https://blog.walterlv.com/) 聊天，言：荐效率工具，乐知否？答：乐！然何不博而广之？lv 欣以为然，曰：博客之？博客不如Github。lv：Good! 
 
