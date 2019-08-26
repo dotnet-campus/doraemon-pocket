@@ -24,7 +24,9 @@
 
 * 沙拉查词-聚合词典划词翻译
 
-
+* TabCopy - 可以将 tab 直接复制成如下样子的 markdown 链接：
+  
+  `[TabCopy - Chrome 网上应用店](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb )` 
 
 
 
