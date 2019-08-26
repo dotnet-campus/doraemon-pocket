@@ -17,15 +17,20 @@
 
 * Markdown Here 
 
+   无论在哪都可以使用 Markdown http://markdown-here.com/
+
 * Nimbus 截幕 & 屏幕录像机
 
-* Vimium [推荐]
-    效率工具 - 用键盘来控制浏览器
+* Vimium 【推荐】
+
+   效率工具 - 用键盘来控制浏览器
 
 * 沙拉查词-聚合词典划词翻译
 
+* LastPass 管理密码
 
-
-
+  ![](http://image.acmx.xyz/AwCCAwMAItoFAMV%2BBQA28wYAAQAEAK4%2BAQBmQwIAaOgJAOjZ%2F2017324145447.jpg)
+  
+  
 
 
