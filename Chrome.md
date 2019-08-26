@@ -21,12 +21,15 @@
 
 * Nimbus 截幕 & 屏幕录像机
 
-* Vimium 【推荐】
+* Vimium [推荐]
 
    效率工具 - 用键盘来控制浏览器
 
 * 沙拉查词-聚合词典划词翻译
 
+* TabCopy - 可以将 tab 直接复制成如下样子的 markdown 链接：
+  
+  `[TabCopy - Chrome 网上应用店](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb )` 
 * LastPass 管理密码
 
   ![](http://image.acmx.xyz/AwCCAwMAItoFAMV%2BBQA28wYAAQAEAK4%2BAQBmQwIAaOgJAOjZ%2F2017324145447.jpg)
