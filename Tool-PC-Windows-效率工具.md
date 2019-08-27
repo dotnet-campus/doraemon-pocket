@@ -1,4 +1,6 @@
+# Windows 效率工具
 
+能够提升 Windows 日常使用体验和效率的工具。
 
 ## 日常提升工作效率
 
@@ -16,16 +18,22 @@
 
 * QuickLook - 空格键预览 [推荐]
 
-    Win10 应用商店下载 
+    Win10 应用商店下载
     [QuickLook 空格键预览文件工具 - 让 Windows 也能拥有 Mac 一样的实用功能！ - 异次元软件下载](https://www.iplaysoft.com/quicklook.html )
 
 * 快贴 - 跨平台云剪贴板
 
     [快贴 - 真正的云剪贴板工具](http://clipber.com/clipber/?rnd=9.842879386822261&source=www )
 
+## 实用小工具
+
+* IObit Unlocker - 解除文件占用
+
+    [IObit Unlocker, Solution for "undelete files or folders" Problems on Windows 8, 7, Vista, XP, 10 - IObit](https://www.iobit.com/en/iobit-unlocker.php )
+
 ## 常规软件
 
-* 图片浏览 - FastStone Image Viewer 
+* 图片浏览 - FastStone Image Viewer
 
     [FastStone Image Viewer, Screen Capture, Photo Resizer ...](https://www.faststone.org/ )
 
@@ -39,8 +47,7 @@
 
 ## Other
 
-* Dukto 
+* Dukto
 
-    局域网跨平台内容分享与文件传输工具 
+    局域网跨平台内容分享与文件传输工具-
     [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
-
