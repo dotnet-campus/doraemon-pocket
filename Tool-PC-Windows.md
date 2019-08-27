@@ -1,3 +1,6 @@
+# Windows 工具
+
+不一定常用，但需要时很有用的 Windows 工具。
 
 ## 文件处理
 
@@ -31,7 +34,7 @@
 
 * IObit Uninstaller - 软件卸载
 
-    IObit 有许多有趣的工具 
+    IObit 有许多有趣的工具
 
     [IObit Uninstaller - Best Free Software Uninstall Tool for Your Windows XP/7/8/10 PC](https://www.iobit.com/ko/advanceduninstaller.php )
 
@@ -39,17 +42,14 @@
 
     [Geek Uninstaller - Download](https://geekuninstaller.com/download )
 
-* RightMenuMgr - 邮件菜单管理
+* RightMenuMgr - 右键菜单管理
 
     [RightMenuMgr - 强大的右键菜单管理工具 - 小众软件](https://www.appinn.com/rightmenumgr/ )
 
-* Rufus
+* Rufus - U盘启动制作工具
 
-    U盘启动制作工具 
     [Rufus](https://rufus.ie/ )
 
-* 微PE工具箱
+* 微PE工具箱 - WinPE 工具
 
-    WinPE 工具
     [微PE工具箱 - 最好用的WinPE装机维护工具](http://www.wepe.com.cn/ )
-

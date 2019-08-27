@@ -16,11 +16,17 @@
 
 ## 1 Windows PC 工具
 
-* [效率工具 - 推荐了解和补充](./Tool-PC-Windows-效率工具.md)
+* [效率工具](./Tool-PC-Windows-效率工具.md)
+
+    能够提升 Windows 日常使用体验和效率的工具。
 
 * [一般维护工具](./Tool-PC-Windows.md)
 
-* [PC工具-程序员相关](./Tool-PC-Windows-Programer.md)
+    不一定常用，但需要时很有用的 Windows 工具。
+
+* [PC工具-编程相关](./Tool-PC-Windows-Programer.md)
+
+    编程辅助工具。
 
 ## 2 网站
 
@@ -28,9 +34,15 @@
 
 * [工具类网站](./Website-Tool.md)
 
-* [工具类网站-程序员相关](./Website-Tool-Programer.md)
+* [工具类网站-编程相关](./Website-Tool-Programer.md)
 
-## 3 其它
+## 3 MAC & iOS
+
+* [MAC 工具](./Tool-PC-MAC.md)
+
+* [iOS 应用](./App-iOS.md)
+
+## 4 其它
 
 * [VS Code 插件](./VSCode-Extension.md)
 

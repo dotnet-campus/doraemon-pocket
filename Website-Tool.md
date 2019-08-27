@@ -1,3 +1,4 @@
+# 其它工具站点
 
 ## Office
 
@@ -13,8 +14,7 @@
 
 ## Other
 
-* [Firefox Send](https://send.firefox.com/ )
-文件分享
+* [Firefox Send](https://send.firefox.com/ ) - 文件分享
 
 * [草料二维码生成器](https://cli.im/ )
 
@@ -22,5 +22,4 @@
 
 * [Guerrilla Mail - Disposable Temporary E-Mail Address －Guerrilla 临时邮件系统](https://www.guerrillamail.com/zh/ )
 
-* [Rainy Cafe: Ambient White Noise Generator. 雨のカフェ](http://rainycafe.com/ )
-背景噪音
+* [Rainy Cafe: Ambient White Noise Generator. 雨のカフェ](http://rainycafe.com/ ) - 背景噪音
