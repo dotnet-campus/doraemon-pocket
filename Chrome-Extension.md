@@ -1,11 +1,14 @@
-
-## 插件
+# Chrome 插件
 
 * [Start | Chrome Extension Downloader](https://chrome-extension-downloader.com/ )
-    下载插件本地文件
+
+    下载插件到本地
 
 * [Greasy Fork - 安全、实用的用户脚本大全](https://greasyfork.org/zh-CN )
 
+    可以安装各种脚本的油猴插件
+
+## 插件
 
 * Chrono下载管理器
 
@@ -15,9 +18,9 @@
 * Grammarly for Chrome
     在线编辑语法检查
 
-* Markdown Here 
+* Markdown Here
 
-   无论在哪都可以使用 Markdown http://markdown-here.com/
+   无论在哪都可以使用 Markdown [http://markdown-here.com/](http://markdown-here.com/)
 
 * Nimbus 截幕 & 屏幕录像机
 
@@ -30,10 +33,8 @@
 * TabCopy - 可以将 tab 直接复制成如下样子的 markdown 链接：
   
   `[TabCopy - Chrome 网上应用店](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb )` 
-* LastPass 管理密码
 
-  ![](http://image.acmx.xyz/AwCCAwMAItoFAMV%2BBQA28wYAAQAEAK4%2BAQBmQwIAaOgJAOjZ%2F2017324145447.jpg)
+* LastPass 密码管理
+
+  ![lastpass](https://assets.pcmag.com/media/images/475646-lastpass.png?width=333&height=245)
   
-  
-
-
