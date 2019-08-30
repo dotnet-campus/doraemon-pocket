@@ -31,6 +31,10 @@
 
     [IObit Unlocker, Solution for "undelete files or folders" Problems on Windows 8, 7, Vista, XP, 10 - IObit](https://www.iobit.com/en/iobit-unlocker.php )
 
+* XMeters - 在状态栏查看系统状态
+
+    [XMeters - Taskbar System Monitoring](https://entropy6.com/xmeters/ )
+
 ## 常规软件
 
 * 图片浏览 - FastStone Image Viewer

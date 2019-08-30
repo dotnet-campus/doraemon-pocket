@@ -31,3 +31,5 @@
 * [Color Hunt - Color Palettes for Designers and Artists](https://colorhunt.co/ )
 
 * [Color Scheme Designer 3_高级在线配色器_配色网](http://www.peise.net/tools/web/ )
+
+* [Chinese Style Colors](https://chinesestyle.xyz/ )
