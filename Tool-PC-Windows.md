@@ -53,3 +53,9 @@
 * 微PE工具箱 - WinPE 工具
 
     [微PE工具箱 - 最好用的WinPE装机维护工具](http://www.wepe.com.cn/ )
+
+## 系统美化
+
+* Wallpaper engine
+
+    [【软件工具】UP主你的动态壁纸是怎么弄的啊？Wallpaper engine安装与使用教程详解。_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av57033304 )
