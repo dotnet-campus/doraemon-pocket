@@ -54,6 +54,13 @@
 
     [微PE工具箱 - 最好用的WinPE装机维护工具](http://www.wepe.com.cn/ )
 
+## 小工具
+
+* Carnac
+
+    [Carnac](http://code52.org/carnac/ )
+    Windows 上显示键盘操作，录屏演示的时候很有用。
+
 ## 系统美化
 
 * Wallpaper engine
