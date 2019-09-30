@@ -60,3 +60,9 @@
 
     [Carnac](http://code52.org/carnac/ )
     Windows 上显示键盘操作，录屏演示的时候很有用。
+
+## 系统美化
+
+* Wallpaper engine
+
+    [【软件工具】UP主你的动态壁纸是怎么弄的啊？Wallpaper engine安装与使用教程详解。_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av57033304 )
