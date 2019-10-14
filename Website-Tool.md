@@ -3,10 +3,10 @@
 ## Office
 
 * [draw.io](https://www.draw.io/ )
-在线画流程图
+    在线画流程图
 
 * [Photopea | Online Photo Editor](https://www.photopea.com/ )
-在线PS
+    在线PS
 
 * [免费在线文件转换器 - 免费在线转换视频,在线音频转换,在线图形转换,在线文档转换和在线压缩格式.](https://cn.office-converter.com/ )
 
@@ -14,7 +14,15 @@
 
 ## Other
 
-* [Firefox Send](https://send.firefox.com/ ) - 文件分享
+* 奶牛快传
+
+    临时文件分享工具。
+    [奶牛快传 | CowTransfer | 文件传输服务](https://cowtransfer.com/ )
+
+* Firefox Send
+
+    Firefox 官方临时文件分享工具。
+    [Firefox Send](https://send.firefox.com/ )
 
 * [草料二维码生成器](https://cli.im/ )
 

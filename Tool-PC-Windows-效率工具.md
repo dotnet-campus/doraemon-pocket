@@ -56,12 +56,3 @@
     局域网跨平台内容分享与文件传输工具-
     [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
 
-* 奶牛快传
-
-    临时文件分享工具。
-    [奶牛快传 | CowTransfer | 文件传输服务](https://cowtransfer.com/ )
-
-* Firefox Send
-
-    Firefox 官方临时文件分享工具。
-    [Firefox Send](https://send.firefox.com/ )
