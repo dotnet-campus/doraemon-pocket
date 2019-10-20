@@ -16,6 +16,12 @@
 
     [Markdown Preview Enhanced - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
+* shell Launcher
+
+    在 VS Code 中开启多终端。
+    [Tyriar/vscode-shell-launcher: VS Code extension that enables easy launching of multiple shell configurations in the terminal](https://github.com/Tyriar/vscode-shell-launcher );
+    [[笔记] vs code 设置终端](https://www.cnblogs.com/jasongrass/p/11608822.html )
+
 ## 强迫症
 
 * Code Spell Checker

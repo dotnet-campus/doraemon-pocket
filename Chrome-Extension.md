@@ -38,3 +38,6 @@
 
   ![lastpass](https://assets.pcmag.com/media/images/475646-lastpass.png?width=333&height=245)
   
+* 博客园 Markdown 编辑器插件
+  
+  [imgss/cnblogs-mdEditor: 一个chrome插件,为了改善博客园markdown编辑器](https://github.com/imgss/cnblogs-mdEditor )
