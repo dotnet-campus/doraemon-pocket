@@ -25,6 +25,10 @@
 
     [快贴 - 真正的云剪贴板工具](http://clipber.com/clipber/?rnd=9.842879386822261&source=www )
 
+* 火柴（原火萤酱）[MAC 支持] 快速启动器
+  
+    [火柴官网(原火萤酱)-文件秒搜|局域网聊天_电脑必备|效率神器](https://www.huochaipro.com/ )
+
 ## 实用小工具
 
 * IObit Unlocker - 解除文件占用
@@ -55,4 +59,3 @@
 
     局域网跨平台内容分享与文件传输工具-
     [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
-
