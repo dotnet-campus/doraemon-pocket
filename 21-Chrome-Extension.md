@@ -8,6 +8,10 @@
 
     可以安装各种脚本的油猴插件
 
+* [zhaoolee/ChromeAppHeroes: 🌈谷粒-Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes )
+
+    Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类。
+
 ## 插件
 
 * Chrono下载管理器
