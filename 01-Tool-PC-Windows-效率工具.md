@@ -2,7 +2,7 @@
 
 能够提升 Windows 日常使用体验和效率的工具。
 
-## 日常提升工作效率
+## 文件管理
 
 * Listary [推荐]
 
@@ -11,6 +11,13 @@
 * Everything [推荐]
 
     [voidtools](https://www.voidtools.com/zh-cn/ )
+
+* tagLyst - 使用标签管理文件 [MAC 支持]
+
+    [tagLyst 官网 | 用标签分类整理文件资料](http://www.taglyst.com/ )  
+    [别再「新建文件夹」了，这个标签管理器可以让你的硬盘更整洁 - 管理器,硬盘 - IT之家](https://www.ithome.com/0/454/238.htm )
+
+## 日常提升工作效率
 
 * 截图 [推荐][MAC 支持]
 
