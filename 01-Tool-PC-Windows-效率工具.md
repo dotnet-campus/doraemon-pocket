@@ -66,3 +66,8 @@
 
     局域网跨平台内容分享与文件传输工具-
     [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
+
+* 翻译工具
+
+    纯绿色的单词查询/翻译小工具-
+    [TranslationTool](https://github.com/Kybs0/TranslationTool )
