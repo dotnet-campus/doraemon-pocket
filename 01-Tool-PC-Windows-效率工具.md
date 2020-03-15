@@ -67,6 +67,11 @@
     局域网跨平台内容分享与文件传输工具-
     [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
 
+* 便笺
+
+    - Win10 自带便笺，已经很好用啦，还可以多终端同步。
+    - Stickies 也不错，可以尝试。[Download Stickies](https://www.zhornsoftware.co.uk/stickies/download.html )
+
 * 翻译工具
 
     纯绿色的单词查询/翻译小工具-
