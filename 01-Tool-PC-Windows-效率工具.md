@@ -23,6 +23,10 @@
 
     [Snipaste - 截图 + 贴图](https://zh.snipaste.com/ )
 
+* 截图|录屏|录gif 
+
+    [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com/ )
+
 * QuickLook - 空格键预览 [推荐]
 
     Win10 应用商店下载
