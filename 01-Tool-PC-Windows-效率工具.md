@@ -12,25 +12,12 @@
 
     [voidtools](https://www.voidtools.com/zh-cn/ )
 
-* tagLyst - 使用标签管理文件 [MAC 支持]
-
-    [tagLyst 官网 | 用标签分类整理文件资料](http://www.taglyst.com/ )  
-    [别再「新建文件夹」了，这个标签管理器可以让你的硬盘更整洁 - 管理器,硬盘 - IT之家](https://www.ithome.com/0/454/238.htm )
-
 ## 日常提升工作效率
-
-* 截图 [推荐][MAC 支持]
-
-    [Snipaste - 截图 + 贴图](https://zh.snipaste.com/ )
 
 * QuickLook - 空格键预览 [推荐]
 
     Win10 应用商店下载
     [QuickLook 空格键预览文件工具 - 让 Windows 也能拥有 Mac 一样的实用功能！ - 异次元软件下载](https://www.iplaysoft.com/quicklook.html )
-
-* 快贴 - 跨平台云剪贴板
-
-    [快贴 - 真正的云剪贴板工具](http://clipber.com/clipber/?rnd=9.842879386822261&source=www )
 
 * 火柴（原火萤酱）[MAC 支持] 快速启动器
   
@@ -59,10 +46,3 @@
 * 演示文稿 - 希沃白板
 
     [希沃白板5 为互动教学而生 | 课件制作神器](http://easinote.seewo.com/ )
-
-## Other
-
-* Dukto
-
-    局域网跨平台内容分享与文件传输工具-
-    [Dukto R6 – Raw material](https://www.msec.it/blog/dukto/ )
