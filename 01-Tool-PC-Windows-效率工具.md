@@ -14,6 +14,10 @@
 
 ## 日常提升工作效率
 
+* 截图|录屏|录gif 
+
+    [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com/ )
+
 * QuickLook - 空格键预览 [推荐]
 
     Win10 应用商店下载
@@ -46,3 +50,15 @@
 * 演示文稿 - 希沃白板
 
     [希沃白板5 为互动教学而生 | 课件制作神器](http://easinote.seewo.com/ )
+
+## Other
+
+* 便笺
+
+  - Win10 自带便笺，已经很好用啦，还可以多终端同步。
+  - Stickies 也不错，可以尝试。[Download Stickies](https://www.zhornsoftware.co.uk/stickies/download.html )
+
+* 翻译工具
+
+    纯绿色的单词查询/翻译小工具-
+    [TranslationTool](https://github.com/Kybs0/TranslationTool )

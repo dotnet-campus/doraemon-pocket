@@ -45,6 +45,16 @@
     [GitLab Workflow - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow)  
     不需要离开 Visual Studio Code 即可管理你的 GitLab 工作流。
 
+* GitLens
+
+    [GitLens — Git supercharged - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens )
+    可视化git管理面板、git blame。
+
+* TODO Tree
+
+    [Todo Tree - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree )
+    直接一览所有写下的TODO。
+
 ## 编程
 
 * Color Highlight
@@ -52,6 +62,18 @@
     [Color Highlight - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)  
     你在代码里面写的颜色值会显示出它的颜色。
 
+* Bracket Pair Colorizer
+
+    [Bracket Pair Colorizer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer )
+    好看又好用的括号配对工具。
+
 * Code Runner
 
     [Code Runner - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+## Others
+
+* PlantUML
+
+    [PlantUML - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml )
+    使用代码画好看的UML图
