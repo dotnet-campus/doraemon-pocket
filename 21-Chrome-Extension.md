@@ -1,4 +1,4 @@
-# 21 Chrome 插件
+# 21 Chrome/Edge 插件
 
 * [Start | Chrome Extension Downloader](https://chrome-extension-downloader.com/ )
 
@@ -13,6 +13,10 @@
     Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类。
 
 ## 插件
+
+* monknow 新标签页
+
+  [MONKNOW 新标签页 - 个性化面板](https://www.monknow.com/zh-CN )
 
 * Chrono下载管理器
 
@@ -32,13 +36,13 @@
 
    效率工具 - 用键盘来控制浏览器
 
-* 沙拉查词-聚合词典划词翻译
+* 沙拉查词-聚合词典划词翻译 [推荐]
 
 * TabCopy - 可以将 tab 直接复制成如下样子的 markdown 链接：
   
   `[TabCopy - Chrome 网上应用店](https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb )` 
 
-* LastPass 密码管理
+* LastPass 密码管理 [推荐]
 
   ![lastpass](https://assets.pcmag.com/media/images/475646-lastpass.png?width=333&height=245)
   

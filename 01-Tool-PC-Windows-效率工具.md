@@ -23,9 +23,9 @@
     Win10 应用商店下载
     [QuickLook 空格键预览文件工具 - 让 Windows 也能拥有 Mac 一样的实用功能！ - 异次元软件下载](https://www.iplaysoft.com/quicklook.html )
 
-* 火柴（原火萤酱）[MAC 支持] 快速启动器
+* utools [MAC 支持] 快速启动器 [推荐]
   
-    [火柴官网(原火萤酱)-文件秒搜|局域网聊天_电脑必备|效率神器](https://www.huochaipro.com/ )
+    [uTools - 你的生产力工具集](http://www.u.tools/ )
 
 ## 实用小工具
 
