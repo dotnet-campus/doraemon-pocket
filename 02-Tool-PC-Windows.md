@@ -59,7 +59,7 @@
 * Carnac
 
     [Carnac](http://code52.org/carnac/ )
-    Windows 上显示键盘操作，录屏演示的时候很有用。
+    Windows 上显示键盘操作，录屏演示的时候很有用。MAC 上对应的软件是 KeyCastr。
 
 ## 系统美化
 
