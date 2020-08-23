@@ -8,8 +8,8 @@
 
 ---
 
-文档已发布到语雀，有更好的阅读体验。但更新可能会慢半拍。
-[哆啦A梦的口袋 · 语雀](https://www.yuque.com/u361964/cxufte )
+文档已发布到 gitbook，有更好的阅读体验。
+[gitbook doraemon-pocket](https://jgrass.gitbook.io/doraemon-pocket/ )
 
 ## 0 源起
 
