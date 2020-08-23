@@ -47,8 +47,8 @@
 
 ## 4 其它
 
+* [Chrome 插件](./21-Chrome-Extension.md)
+ 
 * [VS Code 插件](./22-VSCode-Extension.md)
-
-* [Chrome 插件](./23-Chrome-Extension.md)
 
 * [多端协同](./41-多端协同.md)
