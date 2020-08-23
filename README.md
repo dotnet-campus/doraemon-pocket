@@ -8,7 +8,10 @@
 
 ---
 
-文档已发布到 gitbook，有更好的阅读体验。
+Github地址：  
+[dotnet-campus/doraemon-pocket: 哆啦A梦的口袋 - 收集效率工具与站点](https://github.com/dotnet-campus/doraemon-pocket )
+
+文档已发布到 gitbook，有更好的阅读体验：  
 [gitbook doraemon-pocket](https://jgrass.gitbook.io/doraemon-pocket/ )
 
 ## 0 源起
