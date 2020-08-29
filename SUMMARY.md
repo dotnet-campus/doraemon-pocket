@@ -12,3 +12,6 @@
 * [Chrome 插件](./21-Chrome-Extension.md)
 * [VS Code 插件](./22-VSCode-Extension.md)
 * [多端协同](./41-多端协同.md)
+* [Reading](./Reading/Readme.md)
+  * [设计](./Reading/设计.md)
+ 
